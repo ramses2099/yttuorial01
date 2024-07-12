@@ -1,0 +1,4 @@
+SCREEN_SIZE = (1280, 820)
+DRAW_SCREEN_SIZE = (320, 180)
+TITLE = "Youtube Tutorial"
+FRAMERATE = 60
